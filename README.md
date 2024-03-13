@@ -2,6 +2,7 @@
 Algorithm for real-time EMG batch decomposition and the corresponding calibration algorithm.
 This repository contains the code made for the master thesis, blablabla.
 
+
 # Table of Content
 1. [What is EMG Batch Decomposition?](#emg-realtime-batch-decomposition)
 2. [Why Realtime?](#why-realtime)
@@ -16,6 +17,11 @@ Blind source seperation, etc. Why is it interesting. What can we expect, how man
 Why is realtime important. what does realtime mean, delay, etc. What needs to be done for it to work.
 # Code Architecture
 This Chapter will explain the different files and what they do. It will also give an overview of the integration with the outside frameworks.
+
+### Software Versions:
+- Juptyer Notbook: 3 blabl
+- etc
+
 # Calibration Algorithm
 This chapter will descripe the calibration algrithm in a step by step matter. It will also explain the input and the output of the algorithm. As well as comparitions with the matlab algoritm. What changed what didn't what are some of the differences.
 # Realtime Decomposition Algorithm
