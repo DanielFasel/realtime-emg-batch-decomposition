@@ -29,3 +29,10 @@ This chapter will explain the premise of the real-time algorithm. As well as the
 # Result and Limitiations
 Comparing the calibration with the matlab results. Check the realtime results with the simulated data. Check the fully realtime setup with optional control algorithm as a demonstrations. 
 Show limitations, sucha as drifting, movements, etc.
+
+# Todo
+
+- Check the fixed point algorithm
+- The rate of agreement check should be changed (It should not compensate for noise, instead only global shifting (Can be justified physiologically))
+- Make a plot of all spike plot of all units
+- Check the difference between the plots in the batch decomp and the comparision algorithm.
